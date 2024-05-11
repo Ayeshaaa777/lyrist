@@ -38,22 +38,8 @@ Run the app
 $ pnpm run dev // or npm
 ```
 
-## Contributing
 
-- Fork the repository.
-- Make your changes in a separate branch.
-- Open a pull request.
 
-## Contributors
-
-<a href="https://github.com/asheeeshh/lyrist/graphs/contributors">
-  <img src="https://stg.contrib.rocks/image?repo=asheeeshh/lyrist" />
-</a>
-
-## Ending Note
-- Consider giving the repo a ⭐ if you liked the project!
-- Checkout my other projects!
-- Consider sponsoring me to help me build more projects like this.
 
 <p align="center">
   <a rel="noopener noreferrer" target="_blank" href="https://vercel.com/?utm_source=asheeeshh&utm_campaign=oss">
